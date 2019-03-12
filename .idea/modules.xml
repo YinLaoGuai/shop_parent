@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop-web-auth/shop-web-auth.iml" filepath="$PROJECT_DIR$/shop-web-auth/shop-web-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-auth/shop-web-auth-common/shop-web-auth-common.iml" filepath="$PROJECT_DIR$/shop-web-auth/shop-web-auth-common/shop-web-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-auth/shop-web-auth-service/shop-web-auth-service.iml" filepath="$PROJECT_DIR$/shop-web-auth/shop-web-auth-service/shop-web-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-common/shop-web-common.iml" filepath="$PROJECT_DIR$/shop-web-common/shop-web-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-eureka-service/shop-web-eureka-service.iml" filepath="$PROJECT_DIR$/shop-web-eureka-service/shop-web-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-gateway/shop-web-gateway.iml" filepath="$PROJECT_DIR$/shop-web-gateway/shop-web-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-service/shop-web-service.iml" filepath="$PROJECT_DIR$/shop-web-service/shop-web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_parent.iml" filepath="$PROJECT_DIR$/shop_parent.iml" />
+    </modules>
+  </component>
+</project>
